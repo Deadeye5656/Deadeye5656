@@ -1,2 +1,2 @@
 - 👋 Hi, I’m David Cirenese
-- Please visit my website at http://davidcirenese.tech
+- Please visit my website at https://davidcirenese.github.io/
